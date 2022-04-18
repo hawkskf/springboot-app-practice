@@ -47,7 +47,7 @@
 
 仮イメージ、あとで更新。下の文字での設計が正。
 
-![gamen_image](https://github.com/hawkskf/springboot-app-practice/document/images/gamen_image.jpg)
+![gamen_image](https://github.com/hawkskf/springboot-app-practice/blob/master/document/images/gamen_image.jpg)
 
 ### 共通
 
